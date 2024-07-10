@@ -1,0 +1,23 @@
+{
+    "oreConfig": [
+        {
+            "ore": "minecraft:gold_ore",
+            "fillers": [
+                "STONE_ORE_REPLACEABLES"
+            ],
+            "distribution": "UNIFORM",
+            "minY": -64,
+            "maxY": -8,
+            "maxVeinSize": 4,
+            "spawnRate": 12.0,
+            "discardChanceOnAirExposure": 0.5,
+            "biomeFilters": {
+                "biomeBlacklist": [],
+                "biomeWhitelist": [
+                    "OVERWORLD"
+                ]
+            },
+            "replace": true
+        }
+    ]
+}

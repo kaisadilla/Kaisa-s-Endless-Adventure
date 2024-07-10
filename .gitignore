@@ -1,0 +1,10 @@
+.vscode/
+crash-reports/
+logs/
+mods/
+saves/
+screenshots/
+Xaero*/
+XaeroWaypoints/
+XaeroWaypoints_*/
+XaeroWorldMap/

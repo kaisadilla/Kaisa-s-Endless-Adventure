@@ -1,0 +1,23 @@
+{
+    "oreConfig": [
+        {
+            "ore": "thermal:nickel_ore",
+            "fillers": [
+                "STONE_ORE_REPLACEABLES"
+            ],
+            "distribution": "TRIANGLE",
+            "minY": 0,
+            "maxY": 32,
+            "maxVeinSize": 20,
+            "spawnRate": 1.0,
+            "discardChanceOnAirExposure": 0.0,
+            "biomeFilters": {
+                "biomeBlacklist": [],
+                "biomeWhitelist": [
+                    "OVERWORLD"
+                ]
+            },
+            "replace": true
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "oreConfig": [
+        {
+            "ore": "thermal:lead_ore",
+            "fillers": [
+                "STONE_ORE_REPLACEABLES"
+            ],
+            "distribution": "UNIFORM",
+            "minY": 32,
+            "maxY": 72,
+            "maxVeinSize": 35,
+            "spawnRate": 0.11111111,
+            "discardChanceOnAirExposure": 0.75,
+            "biomeFilters": {
+                "biomeBlacklist": [],
+                "biomeWhitelist": [
+                    "OVERWORLD"
+                ]
+            },
+            "replace": true
+        }
+    ]
+}

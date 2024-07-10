@@ -1,0 +1,23 @@
+{
+    "oreConfig": [
+        {
+            "ore": "thermal:niter_ore",
+            "fillers": [
+                "STONE_ORE_REPLACEABLES"
+            ],
+            "distribution": "TRIANGLE",
+            "minY": -1,
+            "maxY": -1,
+            "maxVeinSize": -1,
+            "spawnRate": -1,
+            "discardChanceOnAirExposure": 0.0,
+            "biomeFilters": {
+                "biomeBlacklist": [],
+                "biomeWhitelist": [
+                    
+                ]
+            },
+            "replace": true
+        }
+    ]
+}

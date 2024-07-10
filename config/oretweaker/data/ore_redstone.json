@@ -1,0 +1,23 @@
+{
+  "oreConfig": [
+    {
+      "ore": "minecraft:redstone_ore",
+      "fillers": [
+        "STONE_ORE_REPLACEABLES"
+      ],
+      "distribution": "UNIFORM",
+      "minY": -1,
+      "maxY": -1,
+      "maxVeinSize": -1,
+      "spawnRate": -1,
+      "discardChanceOnAirExposure": 0.0,
+      "biomeFilters": {
+        "biomeBlacklist": [],
+        "biomeWhitelist": [
+          
+        ]
+      },
+      "replace": true
+    }
+  ]
+}

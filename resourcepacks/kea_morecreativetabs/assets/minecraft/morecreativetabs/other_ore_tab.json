@@ -1,0 +1,207 @@
+{
+    "tab_enabled": true,
+    "tab_name": "other_ore_tab",
+    "tab_stack": { "name": "minecraft:diamond", "nbt": "{BlockStateTag: {level:\"4\"}}"},
+    "tab_items": [
+        {
+            "name": "minecraft:redstone_ore",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:lapis_ore",
+            "hide_old_tab": true
+        },
+        {
+            "name": "thermal:niter_ore",
+            "hide_old_tab": true
+        },
+        {
+            "name": "thermal:sulfur_ore",
+            "hide_old_tab": true
+        },
+        {
+            "name": "thermal:ruby_ore",
+            "hide_old_tab": true
+        },
+        {
+            "name": "thermal:sapphire_ore",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:emerald_ore",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:diamond_ore",
+            "hide_old_tab": true
+        },
+        {
+            "name": "thermal:apatite_ore",
+            "hide_old_tab": true
+        },
+        {
+            "name": "thermal:cinnabar_ore",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:deepslate_redstone_ore",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:deepslate_lapis_ore",
+            "hide_old_tab": true
+        },
+        {
+            "name": "thermal:deepslate_niter_ore",
+            "hide_old_tab": true
+        },
+        {
+            "name": "thermal:deepslate_sulfur_ore",
+            "hide_old_tab": true
+        },
+        {
+            "name": "thermal:deepslate_ruby_ore",
+            "hide_old_tab": true
+        },
+        {
+            "name": "thermal:deepslate_sapphire_ore",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:deepslate_emerald_ore",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:deepslate_diamond_ore",
+            "hide_old_tab": true
+        },
+        {
+            "name": "thermal:deepslate_apatite_ore",
+            "hide_old_tab": true
+        },
+        {
+            "name": "thermal:deepslate_cinnabar_ore",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:nether_quartz_ore",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:redstone",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:lapis_lazuli",
+            "hide_old_tab": true
+        },
+        {
+            "name": "thermal:niter",
+            "hide_old_tab": true
+        },
+        {
+            "name": "thermal:sulfur",
+            "hide_old_tab": true
+        },
+        {
+            "name": "thermal:ruby",
+            "hide_old_tab": true
+        },
+        {
+            "name": "thermal:sapphire",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:emerald",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:diamond",
+            "hide_old_tab": true
+        },
+        {
+            "name": "thermal:apatite",
+            "hide_old_tab": true
+        },
+        {
+            "name": "thermal:cinnabar",
+            "hide_old_tab": true
+        },
+        {
+            "name": "thermal:lapis_dust",
+            "hide_old_tab": true
+        },
+        {
+            "name": "thermal:niter_dust",
+            "hide_old_tab": true
+        },
+        {
+            "name": "thermal:sulfur_dust",
+            "hide_old_tab": true
+        },
+        {
+            "name": "thermal:ruby_dust",
+            "hide_old_tab": true
+        },
+        {
+            "name": "thermal:sapphire_dust",
+            "hide_old_tab": true
+        },
+        {
+            "name": "thermal:emerald_dust",
+            "hide_old_tab": true
+        },
+        {
+            "name": "thermal:diamond_dust",
+            "hide_old_tab": true
+        },
+        {
+            "name": "thermal:apatite_dust",
+            "hide_old_tab": true
+        },
+        {
+            "name": "thermal:cinnabar_dust",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:redstone_block",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:lapis_block",
+            "hide_old_tab": true
+        },
+        {
+            "name": "thermal:niter_block",
+            "hide_old_tab": true
+        },
+        {
+            "name": "thermal:sulfur_block",
+            "hide_old_tab": true
+        },
+        {
+            "name": "thermal:ruby_block",
+            "hide_old_tab": true
+        },
+        {
+            "name": "thermal:sapphire_block",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:emerald_block",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:diamond_block",
+            "hide_old_tab": true
+        },
+        {
+            "name": "thermal:apatite_block",
+            "hide_old_tab": true
+        },
+        {
+            "name": "thermal:cinnabar_block",
+            "hide_old_tab": true
+        }
+    ]
+}
