@@ -4,7 +4,7 @@
     "displayBlocks": true,
     "displayEntities": true,
     "displayMode": "TOGGLE",
-    "hideFromDebug": true,
+    "hideFromDebug": false,
     "iconMode": "CENTERED",
     "enableTextToSpeech": false,
     "ttsMode": "PRESS",
