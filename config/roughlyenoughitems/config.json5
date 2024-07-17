@@ -220,7 +220,8 @@
 					"thermal:tree_extractor",
 					"thermal:rock_gen",
 					"roughlyenoughitems:plugins/information",
-					"minecraft:plugins/tag"
+					"minecraft:plugins/tag",
+					"waystones:warp_plate"
 				],
 				"hiddenCategories": []
 			}

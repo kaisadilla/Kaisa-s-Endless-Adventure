@@ -1,0 +1,19 @@
+{
+    "type": "tconstruct:ore_melting",
+    "rate": "metal",
+    "ingredient": {
+        "tag": "forge:storage_blocks/raw_iron"
+    },
+    "result": {
+        "fluid": "tconstruct:molten_iron",
+        "amount": 810
+    },
+    "temperature": 1104,
+    "time": 1107,
+    "byproducts": [
+        {
+            "fluid": "tconstruct:molten_nickel",
+            "amount": 9
+        }
+    ]
+}

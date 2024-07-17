@@ -1,0 +1,12 @@
+{
+    "type": "tconstruct:melting",
+    "ingredient": {
+        "item": "minecraft:coal_block"
+    },
+    "result": {
+        "fluid": "kaisascore:liquified_coal",
+        "amount": 90
+    },
+    "temperature": 500,
+    "time": 207
+}

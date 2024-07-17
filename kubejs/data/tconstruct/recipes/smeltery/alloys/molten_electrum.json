@@ -1,0 +1,18 @@
+{
+    "type": "tconstruct:alloy",
+    "inputs": [
+        {
+            "tag": "forge:molten_gold",
+            "amount": 10
+        },
+        {
+            "tag": "forge:molten_silver",
+            "amount": 10
+        }
+    ],
+    "result": {
+        "fluid": "tconstruct:molten_electrum",
+        "amount": 20
+    },
+    "temperature": 1031
+}

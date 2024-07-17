@@ -1,0 +1,18 @@
+{
+  "type": "tconstruct:alloy",
+  "inputs": [
+    {
+      "tag": "forge:molten_copper",
+      "amount": 30
+    },
+    {
+      "tag": "forge:molten_tin",
+      "amount": 10
+    }
+  ],
+  "result": {
+    "fluid": "tconstruct:molten_bronze",
+    "amount": 40
+  },
+  "temperature": 452
+}

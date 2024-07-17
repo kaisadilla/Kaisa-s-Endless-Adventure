@@ -1,0 +1,1033 @@
+{
+    "tab_enabled": true,
+    "tab_name": "stone_blocks",
+    "tab_stack": {
+        "name": "minecraft:stone"
+    },
+    "tab_items": [
+        {
+            "name": "minecraft:stone",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:stone_stairs",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:stone_slab",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:stone_bricks",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:stone_brick_stairs",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:stone_brick_wall",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:stone_brick_slab",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:cracked_stone_bricks",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:mossy_stone_bricks",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:mossy_stone_brick_stairs",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:mossy_stone_brick_slab",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:mossy_stone_brick_wall",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:cobblestone",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:cobblestone_stairs",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:cobblestone_slab",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:cobblestone_wall",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:mossy_cobblestone",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:mossy_cobblestone_stairs",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:mossy_cobblestone_slab",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:mossy_cobblestone_wall",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:chiseled_stone_bricks",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:smooth_stone",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:smooth_stone_slab",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:deepslate",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:polished_deepslate",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:polished_deepslate_stairs",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:polished_deepslate_slab",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:polished_deepslate_vertical_slab",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:polished_deepslate_wall",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:deepslate_bricks",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:deepslate_brick_stairs",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:deepslate_brick_slab",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:deepslate_brick_vertical_slab",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:deepslate_brick_wall",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:cracked_deepslate_bricks",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:deepslate_tiles",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:deepslate_tile_stairs",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:deepslate_tile_slab",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:deepslate_tile_vertical_slab",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:deepslate_tile_wall",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:cracked_deepslate_tiles",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:chiseled_deepslate",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:cobbled_deepslate",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:cobbled_deepslate_stairs",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:cobbled_deepslate_slab",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:cobbled_deepslate_vertical_slab",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:cobbled_deepslate_wall",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:netherrack",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:netherrack_bricks",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:netherrack_bricks_stairs",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:netherrack_bricks_slab",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:netherrack_bricks_vertical_slab",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:netherrack_bricks_wall",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:end_stone",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:end_stone_bricks",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:end_stone_brick_stairs",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:end_stone_brick_slab",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:end_stone_brick_vertical_slab",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:end_stone_brick_wall",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:granite",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:granite_stairs",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:granite_slab",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:granite_vertical_slab",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:granite_wall",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:polished_granite",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:polished_granite_stairs",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:polished_granite_slab",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:polished_granite_vertical_slab",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:granite_bricks",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:granite_bricks_stairs",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:granite_bricks_slab",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:granite_bricks_vertical_slab",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:granite_bricks_wall",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:chiseled_granite_bricks",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:granite_pillar",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:diorite",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:diorite_stairs",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:diorite_slab",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:diorite_vertical_slab",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:diorite_wall",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:polished_diorite",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:polished_diorite_stairs",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:polished_diorite_slab",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:polished_diorite_vertical_slab",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:diorite_bricks",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:diorite_bricks_stairs",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:diorite_bricks_slab",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:diorite_bricks_vertical_slab",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:diorite_bricks_wall",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:chiseled_diorite_bricks",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:diorite_pillar",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:andesite",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:andesite_stairs",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:andesite_slab",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:andesite_vertical_slab",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:andesite_wall",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:polished_andesite",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:polished_andesite_stairs",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:polished_andesite_slab",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:polished_andesite_vertical_slab",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:andesite_bricks",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:andesite_bricks_stairs",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:andesite_bricks_slab",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:andesite_bricks_vertical_slab",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:andesite_bricks_wall",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:chiseled_andesite_bricks",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:andesite_pillar",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:limestone",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:limestone_stairs",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:limestone_slab",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:limestone_vertical_slab",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:limestone_wall",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:polished_limestone",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:polished_limestone_stairs",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:polished_limestone_slab",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:polished_limestone_vertical_slab",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:limestone_bricks",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:limestone_bricks_stairs",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:limestone_bricks_slab",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:limestone_bricks_vertical_slab",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:limestone_bricks_wall",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:chiseled_limestone_bricks",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:limestone_pillar",
+            "hide_old_tab": true
+        },
+        {
+            "name": "kaisascore:marble",
+            "hide_old_tab": true
+        },
+        {
+            "name": "kaisascore:polished_marble",
+            "hide_old_tab": true
+        },
+        {
+            "name": "kaisascore:marble_bricks",
+            "hide_old_tab": true
+        },
+        {
+            "name": "kaisascore:marble_pillar",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:jasper",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:jasper_stairs",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:jasper_slab",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:jasper_vertical_slab",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:jasper_wall",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:polished_jasper",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:polished_jasper_stairs",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:polished_jasper_slab",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:polished_jasper_vertical_slab",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:jasper_bricks",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:jasper_bricks_stairs",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:jasper_bricks_slab",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:jasper_bricks_vertical_slab",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:jasper_bricks_wall",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:chiseled_jasper_bricks",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:jasper_pillar",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:shale",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:shale_stairs",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:shale_slab",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:shale_vertical_slab",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:shale_wall",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:polished_shale",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:polished_shale_stairs",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:polished_shale_slab",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:polished_shale_vertical_slab",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:shale_bricks",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:shale_bricks_stairs",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:shale_bricks_slab",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:shale_bricks_vertical_slab",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:shale_bricks_wall",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:chiseled_shale_bricks",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:shale_pillar",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:calcite",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:calcite_stairs",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:calcite_slab",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:calcite_vertical_slab",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:calcite_wall",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:polished_calcite",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:polished_calcite_stairs",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:polished_calcite_slab",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:polished_calcite_vertical_slab",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:calcite_bricks",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:calcite_bricks_stairs",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:calcite_bricks_slab",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:calcite_bricks_vertical_slab",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:calcite_bricks_wall",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:chiseled_calcite_bricks",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:calcite_pillar",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:smooth_basalt",
+            "hide_old_tab": true
+        },
+        {
+            "name": "kaisascore:polished_basalt",
+            "hide_old_tab": true
+        },
+        {
+            "name": "kaisascore:basalt_bricks",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:basalt",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:polished_basalt",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:tuff",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:tuff_stairs",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:tuff_slab",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:tuff_vertical_slab",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:tuff_wall",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:polished_tuff",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:polished_tuff_stairs",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:polished_tuff_slab",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:polished_tuff_vertical_slab",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:tuff_bricks",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:tuff_bricks_stairs",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:tuff_bricks_slab",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:tuff_bricks_vertical_slab",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:tuff_bricks_wall",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:chiseled_tuff_bricks",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:tuff_pillar",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:blackstone",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:blackstone_stairs",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:blackstone_slab",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:blackstone_vertical_slab",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:blackstone_wall",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:blackstone_bricks",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:blackstone_bricks_stairs",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:blackstone_bricks_slab",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:blackstone_bricks_vertical_slab",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:blackstone_bricks_wall",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:gilded_blackstone",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:polished_blackstone",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:polished_blackstone_stairs",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:polished_blackstone_slab",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:polished_blackstone_vertical_slab",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:polished_blackstone_wall",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:polished_blackstone_bricks",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:polished_blackstone_brick_stairs",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:polished_blackstone_brick_slab",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:polished_blackstone_brick_vertical_slab",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:polished_blackstone_brick_wall",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:cracked_polished_blackstone_bricks",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:chiseled_polished_blackstone",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:myalite",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:myalite_stairs",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:myalite_slab",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:myalite_vertical_slab",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:myalite_wall",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:polished_myalite",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:polished_myalite_stairs",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:polished_myalite_slab",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:polished_myalite_vertical_slab",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:myalite_bricks",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:myalite_bricks_stairs",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:myalite_bricks_slab",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:myalite_bricks_vertical_slab",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:myalite_bricks_wall",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:chiseled_myalite_bricks",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:myalite_pillar",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:purpur_block",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:purpur_stairs",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:purpur_slab",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:purpur_vertical_slab",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:purpur_pillar",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:midori_block",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:midori_block_stairs",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:midori_block_slab",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:midori_block_vertical_slab",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:midori_pillar",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:dripstone_block",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:obsidian",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:crying_obsidian",
+            "hide_old_tab": true
+        },
+        {
+            "name": "wildbackport:reinforced_deepslate",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:infested_stone",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:infested_cobblestone",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:infested_stone_bricks",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:infested_cracked_stone_bricks",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:infested_chiseled_stone_bricks",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:infested_mossy_stone_bricks",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:infested_deepslate",
+            "hide_old_tab": true
+        }
+    ]
+}

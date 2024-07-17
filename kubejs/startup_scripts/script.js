@@ -1,6 +1,6 @@
 // priority: 0
 
-console.info('Initializing startup scripts.');
+console.info("Loading startup_scripts/scripts.js");
 
 const NEEDS_TIER_FLINT = "forge:needs_wood_tool";
 const NEEDS_TIER_COPPER = "minecraft:needs_stone_tool";
@@ -84,8 +84,6 @@ onEvent('block.tags', evt => {
     evt.add(NEEDS_TIER_TITANIUM, '#forge:ores/diamond');
     //evt.add(NEEDS_TIER_TITANIUM, '#forge:ores/titanium');
 
-    evt.add("minecraft:incorrect_for_iron_tool", "minecraft:diamond_ore");
-
     // <-- rocks -->
     evt.add(NEEDS_TIER_STEEL, [
         '#forge:deepslate',
@@ -106,9 +104,32 @@ onEvent('block.tags', evt => {
         'minecraft:cobbled_deepslate_slab',
         'minecraft:polished_deepslate_slab',
         'minecraft:deepslate_brick_slab',
-        'minecraft:deepslate_tile_slab'
+        'minecraft:deepslate_tile_slab',
+        'minecraft:tuff',
+        'quark:polished_tuff',
+        'quark:tuff_wall',
+        'quark:polished_tuff_stairs',
+        'quark:tuff_stairs',
+        'quark:polished_tuff_slab',
+        'quark:tuff_slab',
+        'quark:tuff_bricks',
+        'quark:tuff_bricks_slab',
+        'quark:tuff_bricks_stairs',
+        'quark:tuff_bricks_wall',
+        'quark:chiseled_tuff_bricks',
+        'quark:tuff_pillar',
+        'quark:tuff_vertical_slab',
+        'quark:polished_tuff_vertical_slab',
+        'quark:tuff_bricks_vertical_slab',
+        'minecraft:end_stone',
+        'minecraft:end_stone_bricks',
+        'minecraft:end_stone_brick_wall',
+        'minecraft:end_stone_brick_stairs',
+        'minecraft:end_stone_brick_slab',
+        'quark:end_stone_brick_vertical_slab',
     ]);
 });
+
 onEvent('item.tags', evt => {
     
 })

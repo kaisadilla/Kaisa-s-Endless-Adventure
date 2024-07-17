@@ -1,5 +1,6 @@
 {
-	"itemGroup.morecreativetabs.test_tab": "Lighting",
+	"itemGroup.morecreativetabs.terrain_blocks": "Terrain blocks",
+	"itemGroup.morecreativetabs.stone_blocks": "Stone blocks",
 	"itemGroup.morecreativetabs.ore_tab": "Ores",
 	"itemGroup.morecreativetabs.other_ore_tab": "Other minerals"
 }

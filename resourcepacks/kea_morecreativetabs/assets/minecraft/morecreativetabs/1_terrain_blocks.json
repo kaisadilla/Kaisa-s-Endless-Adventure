@@ -1,0 +1,333 @@
+{
+    "tab_enabled": true,
+    "tab_name": "terrain_blocks",
+    "tab_stack": {
+        "name": "minecraft:grass_block"
+    },
+    "tab_items": [
+        {
+            "name": "minecraft:dirt",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:coarse_dirt",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:grass_block",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:podzol",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:mycelium",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:crimson_nylium",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:warp_nylium",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:gravel",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:clay",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:ice",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:packed_ice",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:snow_block",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:sand",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:sandstone",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:sandstone_stairs",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:sandstone_slab",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:sandstone_wall",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:smooth_sandstone",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:smooth_sandstone_slab",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:smooth_sandstone_stairs",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:cut_sandstone",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:cut_sandstone_slab",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:chiseled_sandstone",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:red_sand",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:red_sandstone",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:red_sandstone_stairs",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:red_sandstone_slab",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:red_sandstone_wall",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:smooth_red_sandstone",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:smooth_red_sandstone_slab",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:smooth_red_sandstone_stairs",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:cut_red_sandstone",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:cut_red_sandstone_slab",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:chiseled_red_sandstone",
+            "hide_old_tab": true
+        },
+        {
+            "name": "biomesoplenty:white_sand",
+            "hide_old_tab": true
+        },
+        {
+            "name": "biomesoplenty:white_sandstone",
+            "hide_old_tab": true
+        },
+        {
+            "name": "biomesoplenty:white_sandstone_stairs",
+            "hide_old_tab": true
+        },
+        {
+            "name": "biomesoplenty:white_sandstone_slab",
+            "hide_old_tab": true
+        },
+        {
+            "name": "biomesoplenty:white_sandstone_wall",
+            "hide_old_tab": true
+        },
+        {
+            "name": "biomesoplenty:smooth_white_sandstone",
+            "hide_old_tab": true
+        },
+        {
+            "name": "biomesoplenty:smooth_white_sandstone_stairs",
+            "hide_old_tab": true
+        },
+        {
+            "name": "biomesoplenty:smooth_white_sandstone_slab",
+            "hide_old_tab": true
+        },
+        {
+            "name": "biomesoplenty:cut_white_sandstone",
+            "hide_old_tab": true
+        },
+        {
+            "name": "biomesoplenty:cut_white_sandstone_slab",
+            "hide_old_tab": true
+        },
+        {
+            "name": "biomesoplenty:chiseled_white_sandstone",
+            "hide_old_tab": true
+        },
+        {
+            "name": "biomesoplenty:orange_sand",
+            "hide_old_tab": true
+        },
+        {
+            "name": "biomesoplenty:orange_sandstone",
+            "hide_old_tab": true
+        },
+        {
+            "name": "biomesoplenty:orange_sandstone_stairs",
+            "hide_old_tab": true
+        },
+        {
+            "name": "biomesoplenty:orange_sandstone_slab",
+            "hide_old_tab": true
+        },
+        {
+            "name": "biomesoplenty:orange_sandstone_wall",
+            "hide_old_tab": true
+        },
+        {
+            "name": "biomesoplenty:smooth_orange_sandstone",
+            "hide_old_tab": true
+        },
+        {
+            "name": "biomesoplenty:smooth_orange_sandstone_stairs",
+            "hide_old_tab": true
+        },
+        {
+            "name": "biomesoplenty:smooth_orange_sandstone_slab",
+            "hide_old_tab": true
+        },
+        {
+            "name": "biomesoplenty:cut_orange_sandstone",
+            "hide_old_tab": true
+        },
+        {
+            "name": "biomesoplenty:cut_orange_sandstone_slab",
+            "hide_old_tab": true
+        },
+        {
+            "name": "biomesoplenty:chiseled_orange_sandstone",
+            "hide_old_tab": true
+        },
+        {
+            "name": "biomesoplenty:black_sand",
+            "hide_old_tab": true
+        },
+        {
+            "name": "biomesoplenty:black_sandstone",
+            "hide_old_tab": true
+        },
+        {
+            "name": "biomesoplenty:black_sandstone_stairs",
+            "hide_old_tab": true
+        },
+        {
+            "name": "biomesoplenty:black_sandstone_slab",
+            "hide_old_tab": true
+        },
+        {
+            "name": "biomesoplenty:black_sandstone_wall",
+            "hide_old_tab": true
+        },
+        {
+            "name": "biomesoplenty:smooth_black_sandstone",
+            "hide_old_tab": true
+        },
+        {
+            "name": "biomesoplenty:smooth_black_sandstone_stairs",
+            "hide_old_tab": true
+        },
+        {
+            "name": "biomesoplenty:smooth_black_sandstone_slab",
+            "hide_old_tab": true
+        },
+        {
+            "name": "biomesoplenty:cut_black_sandstone",
+            "hide_old_tab": true
+        },
+        {
+            "name": "biomesoplenty:cut_black_sandstone_slab",
+            "hide_old_tab": true
+        },
+        {
+            "name": "biomesoplenty:chiseled_black_sandstone",
+            "hide_old_tab": true
+        },
+        {
+            "name": "biomesoplenty:soul_sand",
+            "hide_old_tab": true
+        },
+        {
+            "name": "biomesoplenty:soul_sandstone",
+            "hide_old_tab": true
+        },
+        {
+            "name": "biomesoplenty:soul_sandstone_stairs",
+            "hide_old_tab": true
+        },
+        {
+            "name": "biomesoplenty:soul_sandstone_slab",
+            "hide_old_tab": true
+        },
+        {
+            "name": "biomesoplenty:soul_sandstone_wall",
+            "hide_old_tab": true
+        },
+        {
+            "name": "biomesoplenty:smooth_soul_sandstone",
+            "hide_old_tab": true
+        },
+        {
+            "name": "biomesoplenty:smooth_soul_sandstone_stairs",
+            "hide_old_tab": true
+        },
+        {
+            "name": "biomesoplenty:smooth_soul_sandstone_slab",
+            "hide_old_tab": true
+        },
+        {
+            "name": "biomesoplenty:cut_soul_sandstone",
+            "hide_old_tab": true
+        },
+        {
+            "name": "biomesoplenty:cut_soul_sandstone_slab",
+            "hide_old_tab": true
+        },
+        {
+            "name": "biomesoplenty:chiseled_soul_sandstone",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:magma_block",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:soul_sand",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:soul_soil",
+            "hide_old_tab": true
+        }
+    ]
+}

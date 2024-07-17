@@ -109,7 +109,7 @@
 	"Framed Glass" = true
 	"Duskbound Blocks" = true
 	"Compressed Blocks" = true
-	"Celebratory Lamps" = true
+	"Celebratory Lamps" = false
 
 	[building.vertical_planks]
 		#This feature disables itself if any of the following mods are loaded: 
@@ -1550,13 +1550,13 @@
 		"Vertical Shift" = 0
 
 [oddities]
-	"Totem Of Holding" = true
-	"Tiny Potato" = true
-	Pipes = true
-	"Matrix Enchanting" = true
+	"Totem Of Holding" = false
+	"Tiny Potato" = false
+	Pipes = false
+	"Matrix Enchanting" = false
 	Magnets = true
-	Crate = true
-	Backpack = true
+	Crate = false
+	Backpack = false
 
 	[oddities.totem_of_holding]
 		#Set this to false to remove the behaviour where totems destroy themselves if the player dies again.

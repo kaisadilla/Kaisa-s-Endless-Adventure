@@ -1,0 +1,18 @@
+{
+  "type": "tconstruct:alloy",
+  "inputs": [
+    {
+      "tag": "forge:molten_copper",
+      "amount": 50
+    },
+    {
+      "tag": "forge:molten_nickel",
+      "amount": 40
+    }
+  ],
+  "result": {
+    "fluid": "tconstruct:molten_constantan",
+    "amount": 90
+  },
+  "temperature": 843
+}

@@ -1,11 +1,21 @@
 {
 	"favorites": [
-		"{id:\"ftbteams:my_team\",json:'{\"group\":\"ftblibrary:info\",\"icon\":\"ftbteams:textures/teams.png\",\"x\":0,\"click\":\"ftbteams:open_gui\",\"loading_screen\":true}',type:\"ftblibrary:sidebar_button\"}",
 		"{id:\"ftbquests:quests\",json:'{\"group\":\"ftblibrary:info\",\"icon\":\"ftbquests:item/book\",\"x\":610,\"click\":\"ftbquests:open_gui\",\"required_server_mods\":[\"ftbquests\"],\"custom_text\":true}',type:\"ftblibrary:sidebar_button\"}",
-		"{data:{Count:1b,id:\"minecraft:birch_sapling\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
-		"{data:{Count:1b,id:\"minecraft:deepslate_copper_ore\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
-		"{data:{Count:1b,id:\"minecraft:waxed_oxidized_cut_copper_stairs\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}"
+		"{type:\"roughlyenoughitems:weather\",weather:\"CLEAR\"}",
+		"{type:\"roughlyenoughitems:weather\",weather:\"RAIN\"}",
+		"{type:\"roughlyenoughitems:weather\",weather:\"THUNDER\"}",
+		"{mode:\"MORN\",type:\"roughlyenoughitems:time\"}",
+		"{mode:\"NOON\",type:\"roughlyenoughitems:time\"}",
+		"{mode:\"EVENING\",type:\"roughlyenoughitems:time\"}",
+		"{mode:\"NIGHT\",type:\"roughlyenoughitems:time\"}",
+		"{data:{Count:1b,id:\"tconstruct:lavawood_stairs\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{Count:1b,id:\"wildbackport:sculk_catalyst\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{Count:1b,id:\"minecraft:birch_planks\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{Count:1b,id:\"minecraft:polished_andesite\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{Count:1b,id:\"minecraft:experience_bottle\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}"
 	],
-	"hiddenFavorites": [],
+	"hiddenFavorites": [
+		"{id:\"ftbteams:my_team\",json:'{\"group\":\"ftblibrary:info\",\"icon\":\"ftbteams:textures/teams.png\",\"x\":0,\"click\":\"ftbteams:open_gui\",\"loading_screen\":true}',type:\"ftblibrary:sidebar_button\"}"
+	],
 	"displays": []
 }
