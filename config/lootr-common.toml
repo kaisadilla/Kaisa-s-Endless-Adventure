@@ -62,7 +62,7 @@ blast_resistant = false
 #list of dimensions that loot chests should not be replaced in (default: blank, allowing all dimensions, format e.g., ["minecraft:overworld", "minecraft:the_end"])
 dimension_blacklist = []
 #allow the destruction of Lootr chests regardless. overrides `disable_break`
-enable_break = false
+enable_break = true
 #the maximum age for containers; entries above this age will be discarded [default: 60 * 20 * 15, fifteen minutes] [note: the value 6000 will be corrected to 18000. if you wish to use 6000, please use 6001 or 5999.]
 #Range: > 0
 max_age = 18000

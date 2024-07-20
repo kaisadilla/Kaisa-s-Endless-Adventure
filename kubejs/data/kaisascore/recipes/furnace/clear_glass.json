@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:smelting",
+    "ingredient": {
+        "tag": "minecraft:sand"
+    },
+    "result": "tconstruct:clear_glass",
+    "cookingtime": 125
+}

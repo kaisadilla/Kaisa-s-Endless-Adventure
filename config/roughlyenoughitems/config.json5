@@ -3,7 +3,7 @@
 		"favorites": [],
 		"hiddenFavorites": [],
 		"displayHistory": [],
-		"cheating": true,
+		"cheating": false,
 		"favoritesEnabled": true,
 		"reduceMotion": false,
 		"keyBindings": {
@@ -221,7 +221,17 @@
 					"thermal:rock_gen",
 					"roughlyenoughitems:plugins/information",
 					"minecraft:plugins/tag",
-					"waystones:warp_plate"
+					"waystones:warp_plate",
+					"farmersdelight:cooking",
+					"farmersdelight:cutting",
+					"farmersdelight:decomposition",
+					"roughlyenoughresources:the_end_worldgen_category",
+					"roughlyenoughresources:the_nether_worldgen_category",
+					"roughlyenoughresources:overworld_worldgen_category",
+					"roughlyenoughresources:loot_category",
+					"roughlyenoughresources:entity_loot_category",
+					"enchdesc:compatible_items",
+					"clayworks:baking"
 				],
 				"hiddenCategories": []
 			}

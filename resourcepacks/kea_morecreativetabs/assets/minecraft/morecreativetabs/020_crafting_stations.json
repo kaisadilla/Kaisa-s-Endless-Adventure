@@ -1,0 +1,29 @@
+{
+    "tab_enabled": true,
+    "tab_name": "crafting_stations",
+    "tab_stack": {
+        "name": "minecraft:crafting_table"
+    },
+    "tab_items": [
+        {
+            "name": "minecraft:crafting_table",
+            "hide_old_tab": true
+        },
+        {
+            "name": "tconstruct:crafting_station",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:furnace",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:stonecutter",
+            "hide_old_tab": true
+        },
+        {
+            "name": "corail_woodcutter:oak_woodcutter",
+            "hide_old_tab": true
+        }
+    ]
+}

@@ -1,0 +1,121 @@
+{
+    "tab_enabled": true,
+    "tab_name": "light_sources",
+    "tab_stack": {
+        "name": "minecraft:lantern"
+    },
+    "tab_items": [
+        {
+            "name": "minecraft:torch",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:soul_torch",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:lantern",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:soul_lantern",
+            "hide_old_tab": true
+        },
+        {
+            "name": "tconstruct:seared_lantern",
+            "hide_old_tab": true
+        },
+        {
+            "name": "tconstruct:scorched_lantern",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:glowstone",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:shroomlight",
+            "hide_old_tab": true
+        },
+        {
+            "name": "wildbackport:ochre_froglight",
+            "hide_old_tab": true
+        },
+        {
+            "name": "wildbackport:verdant_froglight",
+            "hide_old_tab": true
+        },
+        {
+            "name": "wildbackport:pearlescent_froglight",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:sea_lantern",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:blaze_lantern",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:duskbound_lantern",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:paper_lantern",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:paper_lantern_sakura",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:redstone_lamp",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:jack_o_lantern",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:glow_berries",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:glow_lichen",
+            "hide_old_tab": true
+        },
+        {
+            "name": "biomesoplenty:glowflower",
+            "hide_old_tab": true
+        },
+        {
+            "name": "biomesoplenty:glowworm_silk",
+            "hide_old_tab": true
+        },
+        {
+            "name": "biomesoplenty:glowshroom",
+            "hide_old_tab": true
+        },
+        {
+            "name": "biomesoplenty:glowshroom_block",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:glow_shroom_block",
+            "hide_old_tab": true
+        },
+        {
+            "name": "biomesoplenty:glowing_moss_block",
+            "hide_old_tab": true
+        },
+        {
+            "name": "biomesoplenty:glowing_moss_carpet",
+            "hide_old_tab": true
+        },
+        {
+            "name": "tconstruct:glow_ball",
+            "hide_old_tab": true
+        }
+    ]
+}

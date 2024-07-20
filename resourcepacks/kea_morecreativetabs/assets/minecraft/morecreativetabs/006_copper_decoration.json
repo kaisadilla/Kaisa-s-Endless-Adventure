@@ -1,0 +1,169 @@
+{
+    "tab_enabled": true,
+    "tab_name": "copper_decoration",
+    "tab_stack": {
+        "name": "minecraft:copper_block"
+    },
+    "tab_items": [
+        {
+            "name": "minecraft:copper_block",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:exposed_copper",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:weathered_copper",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:oxidized_copper",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:cut_copper",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:exposed_cut_copper",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:weathered_cut_copper",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:oxidized_cut_copper",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:cut_copper_stairs",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:exposed_cut_copper_stairs",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:weathered_cut_copper_stairs",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:oxidized_cut_copper_stairs",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:cut_copper_slab",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:exposed_cut_copper_slab",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:weathered_cut_copper_slab",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:oxidized_cut_copper_slab",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:cut_copper_vertical_slab",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:exposed_cut_copper_vertical_slab",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:weathered_cut_copper_vertical_slab",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:oxidized_cut_copper_vertical_slab",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:waxed_copper_block",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:waxed_exposed_copper",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:waxed_weathered_copper",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:waxed_oxidized_copper",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:waxed_cut_copper",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:waxed_exposed_cut_copper",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:waxed_weathered_cut_copper",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:waxed_oxidized_cut_copper",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:waxed_cut_copper_stairs",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:waxed_exposed_cut_copper_stairs",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:waxed_weathered_cut_copper_stairs",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:waxed_oxidized_cut_copper_stairs",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:waxed_cut_copper_slab",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:waxed_exposed_cut_copper_slab",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:waxed_weathered_cut_copper_slab",
+            "hide_old_tab": true
+        },
+        {
+            "name": "minecraft:waxed_oxidized_cut_copper_slab",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:waxed_cut_copper_vertical_slab",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:waxed_exposed_cut_copper_vertical_slab",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:waxed_weathered_cut_copper_vertical_slab",
+            "hide_old_tab": true
+        },
+        {
+            "name": "quark:waxed_oxidized_cut_copper_vertical_slab",
+            "hide_old_tab": true
+        }
+    ]
+}

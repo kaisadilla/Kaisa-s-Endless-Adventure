@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "GGG",
+        "S S",
+        "SSS"
+    ],
+    "key": {
+        "G": {
+            "tag": "forge:glass/colorless"
+        },
+        "S": {
+            "item": "tconstruct:seared_brick"
+        }
+    },
+    "result": {
+        "item": "tconstruct:seared_melter"
+    }
+}
